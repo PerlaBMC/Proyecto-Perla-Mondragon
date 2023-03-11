@@ -104,7 +104,7 @@ div.galeria:hover{
 div.pie {
     text-align: center;
     padding: 10px;
-    color: purple;
+    color: purplex;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-shadow: 1px 2px 2px palevioletred;
     font-size: large;
@@ -121,6 +121,20 @@ img.carrete {
     height: 400px;
     width: 400px;
 }
+
+div.promocion {
+background-color: palevioletred;
+color: black;
+text-align: center;
+width: 100%;
+}
+
+div.promocion h2 {
+    font-size: 70px;
+}
+
+
+
 section.final {
     height: auto;
     text-align: center;
